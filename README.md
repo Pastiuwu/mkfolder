@@ -1,7 +1,7 @@
 # 🛠️ MKTool - Pentesting Workspace Manager
 
 [![Screenshot-1.png](https://i.postimg.cc/nh58BfpT/Screenshot-1.png)](https://postimg.cc/k2xhPZVt) 
-*A dynamic terminal tool for creating pentesting workspaces with style*
+
 
 ## 🔥 Features
 
@@ -17,24 +17,26 @@
 ### Basic Install (Bash/Zsh)
 ```bash
 curl -sSL https://raw.githubusercontent.com/yourusername/mktool/main/install.sh | bash
-
+```
 Manual Install
 Clone the repo:
-
+```
 bash
 Copy
 git clone https://github.com/yourusername/mktool.git
 cd mktool
+```
 Make executable:
-
+```
 bash
 Copy
 chmod +x src/mktool.sh
+```
 Add to your shell:
-
-bash
+```bash
 Copy
 echo "source $(pwd)/src/mktool.sh" >> ~/.zshrc  # or ~/.bashrc
+```
 🎯 Usage
 bash
 Copy
