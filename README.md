@@ -1,6 +1,6 @@
 # 🛠️ MKTool - Pentesting Workspace Manager
 
-![ASCII Art Preview](https://imgur.com/a/SDAj9ZU)  
+[![Screenshot-1.png](https://i.postimg.cc/nh58BfpT/Screenshot-1.png)](https://postimg.cc/k2xhPZVt) 
 *A dynamic terminal tool for creating pentesting workspaces with style*
 
 ## 🔥 Features
