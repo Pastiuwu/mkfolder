@@ -1,5 +1,6 @@
 # 🛠️ MKTool - Pentesting Workspace Manager
-
+![GitHub](https://img.shields.io/badge/License-MIT-red)
+![Shell](https://img.shields.io/badge/Shell-Bash-green)
 [![Screenshot-1.png](https://i.postimg.cc/nh58BfpT/Screenshot-1.png)](https://postimg.cc/k2xhPZVt) 
 
 
