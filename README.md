@@ -1,5 +1,6 @@
-# 🛠️ MKTool - Pentesting Workspace Manager
+# 🛠️ MKFolder - Pentesting Workspace Manager
 MKFolder is a CLI tool designed to quickly organize pentesting projects. With a single command, it generates a directory structure and offers an optimized workflow.
+
 [![Screenshot-1.png](https://i.postimg.cc/nh58BfpT/Screenshot-1.png)](https://postimg.cc/k2xhPZVt) 
 
 ![GitHub](https://img.shields.io/badge/License-MIT-red)
