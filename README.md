@@ -18,14 +18,14 @@ MKFolder is a CLI tool designed to quickly organize pentesting projects. With a 
 
 ### Basic Install (Bash/Zsh)
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/mktool/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/Pastiuwu/mkfolder | bash
 ```
 Manual Install
 Clone the repo:
 ```
 bash
 Copy
-git clone https://github.com/yourusername/mktool.git
+git clone https://github.com/Pastiuwu/mkfolder.git
 cd mktool
 ```
 Make executable:
