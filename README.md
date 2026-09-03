@@ -16,7 +16,7 @@ MKFolder is a CLI tool designed to quickly organize pentesting projects. With a 
 
 ## 📦 Installation
 
-### Basic Install (Bash/Zsh).
+### Basic Install (Bash/Zsh)
 ```bash
 curl -sSL https://raw.githubusercontent.com/Pastiuwu/mkfolder | bash
 ```
